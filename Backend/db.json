@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "eName": "Nishant",
+      "eSalary": "50000",
+      "eCompany": "TCS"
+    },
+    {
+      "eName": "kbj",
+      "eSalary": "75500",
+      "eCompany": "oit",
+      "id": 3
+    },
+    {
+      "eName": "Nishant Krishn",
+      "eSalary": "450000",
+      "eCompany": "tcs",
+      "id": 4
+    },
+    {
+      "eName": "DJ Bravo",
+      "eSalary": "54666",
+      "eCompany": "Antstack",
+      "id": 5
+    },
+    {
+      "eName": "jbuxkhvj",
+      "eSalary": "54754",
+      "eCompany": ".fmso;dk",
+      "id": 6
+    },
+    {
+      "eName": "ergry",
+      "eSalary": "872856",
+      "eCompany": "wderg",
+      "id": 7
+    }
+  ]
+}
