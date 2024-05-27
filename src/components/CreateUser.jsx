@@ -8,8 +8,9 @@ const CreateUser = () => {
     let [name,setName]=useState("")
     let [salary,setSalary]=useState("")
     let [company,setCompany]=useState("")
-    let navigate=useNavigate()
     
+    let navigate=useNavigate()
+
     let nameData=(e)=>{
         e.preventDefault()
         setName(e.target.value)
